@@ -1,4 +1,2 @@
-# ProjectRoguelite
+## Project RPG (name pending)
 
-Developed with Unreal Engine 5
-"#ProjectRPG" 
