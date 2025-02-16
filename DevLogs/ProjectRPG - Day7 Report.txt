@@ -1,0 +1,6 @@
+Friday 24th January 2025
+Project Roguelite - AlphaTestWorld
+
+- Added AlphaTestWorld
+- Modelled level
+- Added minimum lights

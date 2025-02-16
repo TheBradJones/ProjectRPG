@@ -1,0 +1,11 @@
+Saturday 18th January 2025
+Project Roguelite - Project Start
+
+- Movement
+- Rage animation
+- Light attack animation
+- Heavy attack animation
+- Light casting
+- Heavy casting
+- Added blocking
+- Custom sword and shield models

@@ -1,0 +1,13 @@
+Monday 10th February 2025
+Project Roguelite - Enemy AI Overhaul.
+
+- Added Enemy States
+	- Added Roaming
+	- Added Chasing
+	- Added Attacking
+		- Works for all weapons types (melee, ranged, magic)
+- Reworked all how all Enemy AI works.
+- Added Enemy Mage Class
+- Removed Enemy Tank Class
+- Refined Enemy AI Code 
+- Fixed bug where Enemies would still attack after death.
