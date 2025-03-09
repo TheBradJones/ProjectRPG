@@ -1,8 +1,0 @@
-Friday 14th February 2025
-Project Roguelite - Valentines Day
-
-- UI Changes
-	- In-Game Menu Redesign
-- Working on Inventory System
-	- Added Item Data
-	- Added Item Interaction
