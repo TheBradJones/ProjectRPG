@@ -2,4 +2,11 @@ Sunday 16th February 2025
 Project Roguelite - Inventory System Recovery
 
 - Working on Inventory System
-	- Gonna try and retrieve yesterdays data then we'll call that a week.
+	- Displays an items info when selected
+	- InteractableItemBase now can change item data based on the itemID set
+	- InteractableItemBase now can change its own mesh based on the itemID
+	- "Equip Item" button now changes to "Use Item" if the selected item is useable
+	- Button now disables if the item can not be used.
+- UI Navigation Changes
+	- When Widget is opened, it will add the cursor to the screen only if the player is using the mouse
+	
